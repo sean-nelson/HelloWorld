@@ -13,7 +13,7 @@ namespace HelloWorld
 			messages[0] = new Message ("Welcome back oh great creator");
 			messages[1] = new Message ("What a lovely name");
 			messages[2] = new Message ("Great name");
-			messages[3] = new Message ("Thats a silly name");
+			messages[3] = new Message ("Thats a silly name, you suck!");
 
 			Console.WriteLine ("Enter your name: ");
 			String name = Console.ReadLine ();
